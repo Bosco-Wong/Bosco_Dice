@@ -29,7 +29,7 @@ void draw(){
 void mousePressed(){
   redraw();
   numOfPips=0;
-  background(10,220,180);
+ // background(10,220,180);
   //reset when mouse is pressed
 }
 
